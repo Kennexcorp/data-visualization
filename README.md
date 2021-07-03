@@ -1,2 +1,2 @@
-## Data Visualization in Python using
+## Data Visualization in Python using matplotlib
 
